@@ -10,7 +10,7 @@ Construção do CRUD de uma loja de games realizado durante o Bootcamp de Desenv
 
 ### 📖 Execício proposto
 
- - Construa o backend para uma loja de games com a capacidade de manipular os dados dos produtos da loja. Os produtos deverão estar Classificados por categoria.
+Construa o backend para uma loja de games com a capacidade de manipular os dados dos produtos da loja. Os produtos deverão estar Classificados por categoria.
 
 1. Crie o projeto no Spring seguindo as boas práticas;
 2. Configure o Banco de dados da aplicação no arquivo application.properties;
