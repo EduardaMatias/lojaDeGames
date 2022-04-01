@@ -4,7 +4,7 @@ Construção do CRUD de uma loja de games realizado durante o Bootcamp de Desenv
 
 ### 👾 Tecnologias utilizadas
  - Java;
- - Spring Framework;
+ - Spring Boot;
  - MySQL Workbench;
  - Insomnia.
 
